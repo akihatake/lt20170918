@@ -16,7 +16,7 @@ iPhone連携してApple Music聞きたい。
 
 パイオニア　SPH-DA05
 
-![Logo](http://pioneer.jp/carrozzeria/splink/appli_unit/sph-da09_sph-da05/common/images/pic_sph-da05.jpg)
+![alt text](http://pioneer.jp/carrozzeria/splink/appli_unit/sph-da09_sph-da05/common/images/pic_sph-da05.jpg)
 
 スマホ連携できるアプリユニット。
 
@@ -43,8 +43,6 @@ GPSやHDMI入力端子付きの車載モニターと考えると別の魅力が�
 不評で投げ売り状態で１万円程度で買える！
 
 ---
-
-## ということで、、、
 
 AirPlay対応させるために中華なドングル購入。
 
