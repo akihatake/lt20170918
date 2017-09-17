@@ -38,6 +38,8 @@ iPhone連携してApple Music聞きたい。
 
 ## が、しかし！！
 
+---
+
 GPSやHDMI入力端子付きの車載モニターと考えると別の魅力が！
 
 不評で投げ売り状態で１万円程度で買える！
@@ -48,4 +50,12 @@ AirPlay対応させるために中華なドングル購入。
 
 ![Logo](https://i.ytimg.com/vi/jcJxxKWbHfY/maxresdefault.jpg)
 
+ミラーリングにて画面と音声をワイアレスで飛ばして写せる
 
+---
+
+AndroidならRoot化すると、、、
+
+車載モニターでタッチ操作可能。
+
+![Logo](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mogyy/20160118/20160118170148.jpg)
