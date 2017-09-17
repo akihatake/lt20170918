@@ -46,6 +46,6 @@ GPSやHDMI入力端子付きの車載モニターと考えると別の魅力が�
 
 AirPlay対応させるために中華なドングル購入。
 
-![Logo](https://images-na.ssl-images-amazon.com/images/I/51EkxGThWpL._SL1000_.jpg)
+![Logo](http://i135.photobucket.com/albums/q160/lover_88/AhSeng/Gadget/Special%20gadget/anycast-8_zpsgfecluvm.jpg)
 
 
